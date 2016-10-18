@@ -8,7 +8,7 @@ public class Principal {
 		// Pide por pantalla un texto
 
 		Scanner teclado = new Scanner(System.in);
-		System.out.println("Introduce un texto");
+		System.out.println("Escribe algo: ");
 		String texto;
 		texto = teclado.nextLine();
 
