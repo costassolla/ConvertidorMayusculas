@@ -5,7 +5,7 @@ public class Persona {
 		// TODO Auto-generated method stub
 
 		String nombre, apellidos;
-		float peso;
+		float peso, altura;
 
 	}
 
